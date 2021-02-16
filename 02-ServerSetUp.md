@@ -12,14 +12,14 @@
 
 ## Workshop Table of Contents:
 
-1. [Getting Started](https://github.com/dokun1/kitua-safe-lab/blob/master/01-GettingStarted.md)
-2. **[Setting up the Server](https://github.com/dokun1/kitua-safe-lab/blob/master/02-ServerSetUp.md)**
-3. [Setting up the Dashboard](https://github.com/dokun1/kitua-safe-lab/blob/master/03-DashboardSetUp.md)
-4. [Setting up the iOS Client](https://github.com/dokun1/kitua-safe-lab/blob/master/04-iOSSetUp.md)
-5. [Handling Status Reports and Disasters](https://github.com/dokun1/kitua-safe-lab/blob/master/05-StatusReportsAndDisasters.md)
-6. [Setting up OpenAPI and REST API functionality](https://github.com/dokun1/kitua-safe-lab/blob/master/06-OpenAndRESTAPI.md)
-7. [Build your app into a Docker image and deploy it on Kubernetes](https://github.com/dokun1/kitua-safe-lab/blob/master/07-DockerAndKubernetes.md)
-8. [Enable monitoring through Prometheus/Grafana](https://github.com/dokun1/kitua-safe-lab/blob/master/08-PrometheusAndGrafana.md)
+1. [Getting Started](./01-GettingStarted.md)
+2. **[Setting up the Server](./02-ServerSetUp.md)**
+3. [Setting up the Dashboard](./03-DashboardSetUp.md)
+4. [Setting up the iOS Client](./04-iOSSetUp.md)
+5. [Handling Status Reports and Disasters](./05-StatusReportsAndDisasters.md)
+6. [Setting up OpenAPI and REST API functionality](./06-OpenAndRESTAPI.md)
+7. [Build your app into a Docker image and deploy it on Kubernetes](./07-DockerAndKubernetes.md)
+8. [Enable monitoring through Prometheus/Grafana](./08-PrometheusAndGrafana.md)
 
 # Server Set Up
 
@@ -149,4 +149,4 @@ Put a breakpoint in your `connected` function. Build and run your server, and ma
 
 # Next Steps
 
-Continue to the [next page](https://github.com/dokun1/kitua-safe-lab/blob/master/03-DashboardSetUp.md) to set up the Dashboard.
+Continue to the [next page](./03-DashboardSetUp.md) to set up the Dashboard.
